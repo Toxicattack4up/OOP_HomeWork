@@ -130,9 +130,12 @@
     <ClCompile Include="Appliances.cpp" />
     <ClCompile Include="Device.cpp" />
     <ClCompile Include="IElectronics.cpp" />
+    <ClCompile Include="LoadingType.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Phone.cpp" />
     <ClCompile Include="Refrigerator.cpp" />
+    <ClCompile Include="SmartPhone.cpp" />
+    <ClCompile Include="Tablet.cpp" />
     <ClCompile Include="Warehouse.cpp" />
     <ClCompile Include="WashingMachine.cpp" />
   </ItemGroup>
@@ -140,8 +143,11 @@
     <ClInclude Include="Appliances.h" />
     <ClInclude Include="Device.h" />
     <ClInclude Include="IElectronics.h" />
+    <ClInclude Include="LoadingType.h" />
     <ClInclude Include="Phone.h" />
     <ClInclude Include="Refrigerator.h" />
+    <ClInclude Include="SmartPhone.h" />
+    <ClInclude Include="Tablet.h" />
     <ClInclude Include="Warehouse.h" />
     <ClInclude Include="WashingMachine.h" />
   </ItemGroup>
