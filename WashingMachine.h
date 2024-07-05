@@ -11,4 +11,3 @@ public:
 private:
 	LoadingType _loadingtype;
 };
-

@@ -1,7 +1,7 @@
 #pragma once 
 #include "IElectronics.h"
 
-class Appliances : public IElectronics
+class Appliances : public virtual IElectronics
 {
 public:
     Appliances(int weight);

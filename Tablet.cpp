@@ -2,7 +2,8 @@
 
 Tablet::Tablet(int batteryLife, float ScreenSize, bool Stilus)
 	: Device(batteryLife), _ScreenSize(ScreenSize), _Stilus(Stilus)
-{}
+{
+}
 
 void Tablet::ShowSpec()
 {

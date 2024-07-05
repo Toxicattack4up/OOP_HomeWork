@@ -3,6 +3,4 @@ enum class LoadingType
 {
 	Front,
 	Top
-
 };
-
